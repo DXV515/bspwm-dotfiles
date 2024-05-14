@@ -17,11 +17,11 @@ BASE_PACKAGES = [
 ]
 
 DEV_PACKAGES = [
-    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "wireshark-qt",
-    "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
+    "cheese", "screenkey", "timeshift", "pinta", "wireshark-qt",
+    "filezilla", "ghex", "chromium", "keepassxc", "gufw", "python-pywal",
     "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
     "neovim", "obs-studio", "telegram-desktop", "tmux", "youtube-dl", "code", "cowsay",
-    "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc",
+    "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian",  "cloc",
 ]
 
 AUR_PACKAGES = [
